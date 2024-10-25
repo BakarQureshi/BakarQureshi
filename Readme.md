@@ -19,10 +19,10 @@
   <a href="https://x.com/m_bakarqureshi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://linkedin.com/in/muhammad-abubakar-qureshi-965146287" target="_blank">
+  <a href="https://www.linkedin.com/in/bakar-qureshi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/qureshi.muhammadabubakar" target="_blank">
+  <a href="https://www.instagram.com/bakar_qureshii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
